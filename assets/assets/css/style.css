@@ -110,6 +110,8 @@ main { padding: 44px 0 70px; min-height: calc(100vh - 140px); }
 
 .actions { display: flex; gap: 12px; flex-wrap: wrap; margin-top: 26px; }
 
+img { max-width: 500px; max-height: 500px; position: relative; bottom: 10px;}
+
 .btn {
     display: inline-flex;
     align-items: center;
